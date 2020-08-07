@@ -141,7 +141,7 @@ function TeacherForm() {
               onChange={(e) => setSubject(e.target.value)}
               options={[
                 { value: 'Artes', label: 'Artes' },
-                { value: 'Biologia', label: 'BIolodia' },
+                { value: 'Biologia', label: 'Biologia' },
                 { value: 'Informática', label: 'Informática' },
               ]}
             />
@@ -180,7 +180,7 @@ function TeacherForm() {
                       { value: '2', label: 'Terça-feira' },
                       { value: '3', label: 'Quarta-feira' },
                       { value: '4', label: 'Quinta-feira' },
-                      { value: '5', label: 'Sexta-fera' },
+                      { value: '5', label: 'Sexta-feira' },
                       { value: '6', label: 'Sábado' },
                     ]}
                   />
